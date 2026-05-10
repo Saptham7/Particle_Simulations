@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('TkAgg')
 #Constants
-num_particles = 10
+num_particles = int(input("Enter the no. of gas molecules: ")
 container_size = 0.1
 time_steps = 10000
 particles_speed = 0.001
