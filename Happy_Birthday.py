@@ -9,7 +9,7 @@ HEIGHT = 500
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
-pygame.display.set_caption("Srivathsa, You is Gay")
+pygame.display.set_caption("G S Chandrashekhara")
 
 clock = pygame.time.Clock()
 
@@ -20,7 +20,7 @@ WHITE = (255, 255, 255)
 font = pygame.font.SysFont("Arial", 120)
 
 text_surface = font.render(
-    "Srivathsa, You is Gay",
+    "G S Chandrashekhara",
     False,
     WHITE )
 
